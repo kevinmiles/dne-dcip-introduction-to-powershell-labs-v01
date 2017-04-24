@@ -22,12 +22,18 @@
         "title": "3.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
+        "labId": "dne-dcip-powershell-cmdlets-and-objects-v01",
+        "title": "PowerShell Cmdlets and Objects"
+    },{
+        "labId": "dne-dcip-powershell-pipelining-and-output-v01",
+        "title": "PowerShell Pipelining and Output"
+    },{
+        "labId": "dne-dcip-introduction-to-ucs-powertool-v01",
+        "title": "Introduction to UCS PowerTool"
     }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
     }],
-    "active": false
+    "active": true
 }
