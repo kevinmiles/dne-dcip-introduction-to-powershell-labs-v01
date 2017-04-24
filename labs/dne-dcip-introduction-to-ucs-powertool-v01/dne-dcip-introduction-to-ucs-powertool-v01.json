@@ -6,13 +6,9 @@
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
+        "title": "PowerShell"
     }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "PowerTool"
     }],
     "files": [{
         "title": "1.md"

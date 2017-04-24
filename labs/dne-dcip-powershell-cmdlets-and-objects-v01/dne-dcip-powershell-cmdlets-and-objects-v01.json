@@ -6,13 +6,7 @@
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
-    }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "powershell-scripting-best-practices"
     }],
     "files": [{
         "title": "1.md"
