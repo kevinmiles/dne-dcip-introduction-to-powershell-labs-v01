@@ -3,6 +3,7 @@
     "title": "title",
     "slug": "PowerShell Pipelining and Output",
     "time": "20",
+    "byod": true,
     "tags": [{
         "title": "Data Center"
     }, {

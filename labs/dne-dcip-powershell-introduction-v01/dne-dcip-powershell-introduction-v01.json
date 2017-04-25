@@ -3,6 +3,7 @@
     "title": "PowerShell Introduction",
     "slug": "This is an introductory overview of MicroSoft PowerShell. PowerShell is an object oriented scripting language built on top of .NET. This lab will help get you started.",
     "time": "20",
+    "byod": true,
     "tags": [{
         "title": "Data Center"
     }, {

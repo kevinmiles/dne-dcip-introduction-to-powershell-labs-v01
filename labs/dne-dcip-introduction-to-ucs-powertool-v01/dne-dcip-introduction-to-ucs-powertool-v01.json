@@ -3,6 +3,7 @@
     "title": "Introduction to UCS PowerTool",
     "slug": "whats it about",
     "time": "20",
+    "byod": true,
     "tags": [{
         "title": "Data Center"
     }, {
