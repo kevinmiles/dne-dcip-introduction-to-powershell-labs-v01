@@ -1,12 +1,12 @@
 {
     "labId": "dne-dcip-powershell-cmdlets-and-objects-v01",
-    "title": "title",
-    "slug": "whats it about",
-    "time": "30",
+    "title": "PowerShell Cmdlets and Objects",
+    "slug": "This is an introductory overview of MicroSoft PowerShell focusing on Cmdlets and Objects. PowerShell is an object oriented scripting language built on top of .NET.",
+    "time": "20",
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "powershell-scripting-best-practices"
+        "title": "PowerShell"
     }],
     "files": [{
         "title": "1.md"

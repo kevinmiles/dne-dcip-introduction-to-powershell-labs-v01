@@ -1,8 +1,8 @@
 {
     "labId": "dne-dcip-powershell-pipelining-and-output-v01",
     "title": "title",
-    "slug": "whats it about",
-    "time": "30",
+    "slug": "PowerShell Pipelining and Output",
+    "time": "20",
     "tags": [{
         "title": "Data Center"
     }, {
