@@ -1,7 +1,7 @@
 {
     "labId": "dne-dcip-powershell-pipelining-and-output-v01",
-    "title": "title",
-    "slug": "PowerShell Pipelining and Output",
+    "title": "PowerShell Pipelining and Output",
+    "slug": "This is an introductory overview of MicroSoft PowerShell focusing on Pipelining and Output. PowerShell is an object oriented scripting language built on top of .NET.",
     "time": "20",
     "byod": true,
     "tags": [{
