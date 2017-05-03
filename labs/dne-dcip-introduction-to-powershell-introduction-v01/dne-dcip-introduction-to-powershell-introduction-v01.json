@@ -22,9 +22,6 @@
     },{
         "labId": "dne-dcip-introduction-to-powershell-pipelining-and-output-v01",
         "title": "PowerShell Pipelining and Output"
-    },{
-        "labId": "dne-dcip-introduction-to-powershell-ucs-powertool-v01",
-        "title": "Introduction to UCS PowerTool"
     }],
     "authors": [{
         "name": "John McDonough",
