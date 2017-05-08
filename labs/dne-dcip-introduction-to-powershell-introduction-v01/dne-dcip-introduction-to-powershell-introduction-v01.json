@@ -1,7 +1,7 @@
 {
     "labId": "dne-dcip-introduction-to-powershell-introduction-v01",
     "title": "PowerShell Introduction",
-    "slug": "This is an introductory overview of MicroSoft PowerShell. PowerShell is an object oriented scripting language built on top of .NET. This lab will help get you started.",
+    "slug": "This lab is an brief introduction to Microsoft PowerShell. PowerShell is an object oriented scripting language built on top of .NET. This lab will help get you started.",
     "time": "20",
     "byod": true,
     "tags": [{
