@@ -1,8 +1,8 @@
 {
     "labId": "dne-dcip-introduction-to-powershell-mission-01-v01",
-    "title": "title",
-    "slug": "whats it about",
-    "time": "30",
+    "title": "Mission: Introduction to PowerShell - Basic",
+    "slug": "This mission is designed to let you put into practice what you have learned in the Introduction to PowerShell Learning Labs",
+    "time": "10",
     "byod": true,
     "tags": [{
         "title": "Data Center"
@@ -21,6 +21,8 @@
         "title": "2.md"
     }, {
         "title": "3.md"
+    }, {
+        "title": "4.md"
     }],
     "related": [{
         "labId": "id-related",
