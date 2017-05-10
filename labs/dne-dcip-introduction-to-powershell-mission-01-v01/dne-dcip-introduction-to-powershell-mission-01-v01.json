@@ -7,13 +7,7 @@
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
-    }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "PowerShell"
     }],
     "files": [{
         "title": "1.md"
@@ -25,8 +19,8 @@
         "title": "4.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
+        "labId": "idne-dcip-introduction-to-powershell-mission-02-v01",
+        "title": "Mission: Introduction to PowerShell - Advanced"
     }],
     "authors": [{
         "name": "John McDonough",

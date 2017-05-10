@@ -1,19 +1,13 @@
 {
     "labId": "dne-dcip-introduction-to-powershell-mission-02-v01",
-    "title": "title",
-    "slug": "whats it about",
-    "time": "30",
+    "title": "Mission: Introduction to PowerShell - Advanced",
+    "slug": "This mission is designed to let you put into practice what you have learned in the Introduction to PowerShell Learning Labs and take it just a little (or a lot) further than the Basic Mission",
+    "time": "10",
     "byod": true,
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "tag 2"
-    }, {
-        "title": "tag 3"
-    }, {
-        "title": "tag 4"
-    },{
-        "title": "tag 5"
+        "title": "PowerShell"
     }],
     "files": [{
         "title": "1.md"
@@ -23,12 +17,12 @@
         "title": "3.md"
     }],
     "related": [{
-        "labId": "id-related",
-        "title": "title-related"
+        "labId": "dne-dcip-introduction-to-powershell-mission-02-v01",
+        "title": "Mission: Introduction to PowerShell - Basic"
     }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
     }],
-    "active": false
+    "active": true
 }
