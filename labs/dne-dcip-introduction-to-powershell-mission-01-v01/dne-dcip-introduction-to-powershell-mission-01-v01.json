@@ -4,6 +4,7 @@
     "slug": "This mission is designed to let you put into practice what you have learned in the Introduction to PowerShell Learning Labs",
     "time": "10",
     "byod": true,
+    "moduleOnly": true,
     "tags": [{
         "title": "Data Center"
     }, {
