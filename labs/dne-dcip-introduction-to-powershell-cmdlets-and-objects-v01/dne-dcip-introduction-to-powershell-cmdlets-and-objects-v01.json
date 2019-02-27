@@ -10,11 +10,16 @@
     }, {
         "title": "PowerShell"
     }],
-    "files": [{
-        "title": "1.md"
-    }, {
-        "title": "2.md"
-    }],
+    "files": [
+      {
+        "title": "PowerShell Cmdlets",
+        "file": "1.md"
+      },
+      {
+        "title": "PowerShell Objects",
+        "file": "2.md"
+      }
+    ],
     "related": [{
         "labId": "dne-dcip-introduction-to-powershell-introduction-v01",
         "title": "PowerShell Introduction"

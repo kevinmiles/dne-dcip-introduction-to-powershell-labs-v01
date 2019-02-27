@@ -10,13 +10,18 @@
     }, {
         "title": "PowerShell"
     }],
-    "files": [{
-        "title": "1.md"
-    }, {
-        "title": "2.md"
-    }, {
-        "title": "3.md"
-    }],
+    "files": [
+      {
+        "title": "PowerShell Mission",
+        "file": "1.md"
+      },{
+        "title": "PowerShell Arrays and Process Blocks",
+        "file": "2.md"
+      },{
+        "title": "Mission Completion",
+        "file": "3.md"
+      }
+    ],
     "related": [{
         "labId": "dne-dcip-introduction-to-powershell-mission-01-v01",
         "title": "Mission: Introduction to PowerShell - Basic"

@@ -10,15 +10,21 @@
     }, {
         "title": "PowerShell"
     }],
-    "files": [{
-        "title": "1.md"
-    }, {
-        "title": "2.md"
-    }, {
-        "title": "3.md"
-    }, {
-        "title": "4.md"
-    }],
+    "files": [
+      {
+        "title": "PowerShell Mission",
+        "file": "1.md"
+      },{
+        "title": "Get-Help and Parameters",
+        "file": "2.md"
+      },{
+        "title": "Get-Command",
+        "file": "3.md"
+      },{
+        "title": "Mission Completion",
+        "file": "4.md"
+      }
+    ],
     "related": [{
         "labId": "dne-dcip-introduction-to-powershell-mission-02-v01",
         "title": "Mission: Introduction to PowerShell - Advanced"

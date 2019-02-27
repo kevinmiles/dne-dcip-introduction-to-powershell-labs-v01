@@ -10,13 +10,20 @@
     }, {
         "title": "PowerShell"
     }],
-    "files": [{
-        "title": "1.md"
-    }, {
-        "title": "2.md"
-    }, {
-        "title": "3.md"
-    }],
+    "files": [
+      {
+        "title": "PowerShell Objects",
+        "file": "1.md"
+      },
+      {
+        "title": "Object Members",
+        "file": "2.md"
+      },
+      {
+        "title": "PowerShell Cmdlets",
+        "file": "3.md"
+      }
+    ],
     "related": [{
         "labId": "dne-dcip-introduction-to-powershell-cmdlets-and-objects-v01",
         "title": "PowerShell Cmdlets and Objects"
